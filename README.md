@@ -69,6 +69,11 @@ your PC.
 
 None. The program only uses Windows and the .NET Framework that ships with Windows.
 
+## Automated checks
+
+[![CodeQL Advanced](https://github.com/SCgrS/Extension-Toggle/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/SCgrS/Extension-Toggle/actions/workflows/codeql.yml)\
+[![Dependency Review](https://github.com/SCgrS/Extension-Toggle/actions/workflows/dependency-review.yml/badge.svg?branch=main)](https://github.com/SCgrS/Extension-Toggle/actions/workflows/dependency-review.yml)
+
 ---
 
 Questions and feedback: [x.com/CgrShn](https://x.com/CgrShn)

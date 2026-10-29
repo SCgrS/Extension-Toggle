@@ -68,6 +68,11 @@ Program hiçbir veri toplamaz, saklamaz, telemetri içermez ve internete bağlan
 Program hiçbir üçüncü taraf pakete bağlı değildir. Kullandığı her şey Windows'un kendisi ve Windows'la gelen .NET
 Framework'tür.
 
+## Otomatik denetimler
+
+[![CodeQL Advanced](https://github.com/SCgrS/Extension-Toggle/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/SCgrS/Extension-Toggle/actions/workflows/codeql.yml)\
+[![Dependency Review](https://github.com/SCgrS/Extension-Toggle/actions/workflows/dependency-review.yml/badge.svg?branch=main)](https://github.com/SCgrS/Extension-Toggle/actions/workflows/dependency-review.yml)
+
 ---
 
 Soru ve geri bildirimler için: [x.com/CgrShn](https://x.com/CgrShn)
